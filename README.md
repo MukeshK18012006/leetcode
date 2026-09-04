@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/MukeshK18012006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MukeshK18012006/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/MukeshK18012006/leetcode/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/MukeshK18012006/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MukeshK18012006/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/MukeshK18012006/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MukeshK18012006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/MukeshK18012006/leetcode/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +42,16 @@
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/MukeshK18012006/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MukeshK18012006/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
