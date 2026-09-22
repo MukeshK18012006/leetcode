@@ -54,4 +54,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MukeshK18012006/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/MukeshK18012006/leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/MukeshK18012006/leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/MukeshK18012006/leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
